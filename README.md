@@ -7,7 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/sinchannnroy" target="blank"><img src="https://img.shields.io/twitter/follow/sinchannnroy?logo=twitter&style=for-the-badge" alt="sinchannnroy" /></a> </p>
 
+- 🔭 Hi, I'm committed to working on improvising my DSA and Problem Solving skills [.](.)
+
 - 🌱 I’m currently working on **Web Development and Machine Learning**
+
+- 👯 I’m looking to collaborate on projects related to Web Development and Machine Learning [.](.)
+
+- 🤝 I’m looking for help with placement opportunities related to Software Engineering Field [.](.)
 
 - 👨‍💻 All of my projects are available at [https://sinchannroy.github.io/portfolio/](https://sinchannroy.github.io/portfolio/)
 
@@ -38,4 +44,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinchannroy&show_icons=true&locale=en" alt="sinchannroy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinchannroy&" alt="sinchannroy" /></p>
-
