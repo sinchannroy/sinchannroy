@@ -155,7 +155,7 @@ Windows                  18 hrs 3 mins       ██████████░�
   <p align="center">
     
   <img alt="Sinchan Roy's streak" src="https://streak-stats.demolab.com/?user=Shivam171&theme=monokai-metallian&hide_border=true"/>
-  <img alt="Sinchan Roy's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Shivam171&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  <img alt="Sinchan Roy's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sinchannroy&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
   </p>
 
 <p align="center"><b>NOTE:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
