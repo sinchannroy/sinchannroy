@@ -112,7 +112,7 @@ Windows                  18 hrs 3 mins       ██████████░�
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-ffffff.svg?logo=bootstrap&logoColor=blue"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-ffffff.svg?logo=express&logoColor=blue"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-ffffff.svg?logo=github%20actions&logoColor=blue"></a>
-      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a> -->
+      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a> 
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-ffffff.svg?logo=react&logoColor=blue"></a>
       <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next.js-ffffff.svg?logo=nextjs&logoColor=blue"></a>
